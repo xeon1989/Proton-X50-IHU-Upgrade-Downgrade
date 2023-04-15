@@ -10,7 +10,7 @@
 - If your IHU updated to version 617 / 618 after 2-Mar-2023 and you wanted to install your own apps, Yes.
 
 ## Prerequisites ##
-- IHU with Hardware version 0090 or 0200, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).
+- (!IMPORTANT!) IHU with *Hardware version 0090 or 0200*, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).
 - USB drive formatted with FAT32 file system.
 - A device to download and copy files to USB drive.
 - (optional) A cup of coffee to stay alert. 
