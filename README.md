@@ -2,7 +2,8 @@
 
 ## Before You Start ##
 - Flashing firmware comes with risk. Proceed with caution and exercise due diligence.
-- No warranty from me. If you broke your IHU, you will need to find your way out. 
+- No warranty from me. If you broke your IHU, you will need to find your way out.
+- One of the fellow bro feedback that this works for Firmware version ends with 0644. 
 
 ## Should You Flash 617v1 / 618v1 Firmware? ##
 - If your IHU is running on GKUI19, its performance and functionality are good enough. There is no need to upgrade to ATLAS unless you prefer the modern UI.
@@ -21,7 +22,7 @@
 | Model              | Current Firmware           | Download |
 |--------------------|----------------------------|----------|
 | Standard<br />Executive | GKUI: SW0SXRA1201L5064.00380 <br />ATLAS: SW0SXRA0616L5170.00582 <br />ATLAS: SW0SXRA1124L5170.00618(v2) | [Proton X50 Standard Executive.7z](https://drive.google.com/file/d/1hvU93XhB6K1q-e_x1XrCwucJmJDQLqzF/view?usp=share_link)   |
-| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) | [Proton X50 Premium Flagship.7z](https://drive.google.com/file/d/11VgpWI4qZRpvMWI9ogBGUnhvKK3S88go/view?usp=share_link)   |
+| Premium<br />Flagship   | GKUI: SW0SXRA1201H5064.00379 <br />ATLAS: SW0SXRA0616H5170.00581 <br />ATLAS: SW0SXRA1124H5170.00617(v2) <br />ATLAS: SW0SXRA0413H5170.00644 | [Proton X50 Premium Flagship.7z](https://drive.google.com/file/d/11VgpWI4qZRpvMWI9ogBGUnhvKK3S88go/view?usp=share_link)   |
 
 
 2. Once downloaded, unzip the file. Make sure SW0SXRA1124xxxx.zip file not corrupted by comparing checksum of your file with following hash. ([follow this guide](https://howardsimpson.blogspot.com/2022/01/quickly-create-checksum-in-windows.html) if you don't know how) 
