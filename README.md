@@ -12,7 +12,7 @@
 
 ## Prerequisites ##
 - (!IMPORTANT!) IHU with *Hardware version 0090 or 0200*, Firmware version GKUI H379 / L380, ATLAS H581 / L582/H617(ver2) / L618(Ver2).
-- USB drive formatted with FAT32 file system.
+- **USB 2.0 drive** formatted with FAT32 file system. (credit to @nnyj for reminding me)
 - A device to download and copy files to USB drive.
 - (optional) A cup of coffee to stay alert. 
 
